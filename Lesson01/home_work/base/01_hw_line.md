@@ -17,7 +17,10 @@
 ### Решение задачи
 
 ```python
-# TODO: you code here...
+tC = int(input())
+tF = (tC * 9/5) + 32
+print(int(tF))
+
 ```
 
 ---
